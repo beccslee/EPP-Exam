@@ -1,0 +1,10 @@
+J375474	Boston_Terrier	34
+F899781	Shih_Tzu	29
+H777106	Cavalier_King_Charles_Spaniel	36
+B254918	Dachshund	38
+Q988225	Pointer_(German_Shorthaired)	24
+M115155	Bernese_Mountain_Dog	34
+E165998	Dachshund	41
+Z443019	Spaniel_(English_Springer)	45
+M917159	Dachshund	44
+I369061	Cavalier_King_Charles_Spaniel	31
